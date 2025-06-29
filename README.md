@@ -61,7 +61,7 @@ Key achievements include:
 ## 📈 Visitor Stats
 
 This page is public! Thanks for stopping by.  
-👉 *[Add your Counter.dev or Google Analytics script here if on GitHub Pages]*
+👉 <script src="https://cdn.counter.dev/script.js" data-id="5ded38b2-b026-416e-bc84-6e9bde54a937" data-utcoffset="6"></script>
 
 ---
 
